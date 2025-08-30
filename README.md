@@ -97,9 +97,14 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|               1200 : 12          |      1204 : 00                    |
+1201 : 34 | 1205 : 00
+1202 : 12 | 1206 : 00
+1203 : 34 | 1207 : C4
+
 
 #### Manual Calculations
+![WhatsApp Image 2025-08-30 at 13 22 25_401d2d4f](https://github.com/user-attachments/assets/1d81a306-e394-45ca-9408-5b73066bffc6)
 
 (Add your calculation here)
 
@@ -107,6 +112,10 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="657" height="441" alt="Screenshot 2025-08-30 141118" src="https://github.com/user-attachments/assets/a83553df-61a7-402d-88ef-43ca5ebf4086" />
+<img width="674" height="490" alt="Screenshot 2025-08-09 160144" src="https://github.com/user-attachments/assets/8591be95-ce77-434f-b2ce-75dd52a9d1cf" />
+
+
 
 ## 3. MULTIPLICATION
 
