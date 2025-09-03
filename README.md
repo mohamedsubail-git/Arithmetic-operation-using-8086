@@ -71,8 +71,9 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-<img width="648" height="441" alt="Screenshot 2025-08-29 104445" src="https://github.com/user-attachments/assets/740e25ab-6274-486f-ac65-27a293026a7b" />
-<img width="1112" height="653" alt="Screenshot 2025-08-09 154808" src="https://github.com/user-attachments/assets/5fb02433-8596-481a-9457-9f5fcd7e38f4" />
+<img width="601" height="375" alt="Screenshot 2025-09-03 222203" src="https://github.com/user-attachments/assets/2c2c23af-7b0b-42e9-a3ff-db48c565dc7b" />
+<img width="630" height="397" alt="Screenshot 2025-09-03 221939" src="https://github.com/user-attachments/assets/065eb414-9c7c-419b-9287-83cbe0ca0e82" />
+
 
 
 ## 2. SUBTRACTION
@@ -105,7 +106,8 @@ END
 
 
 #### Manual Calculations
-![Uploading WhatsApp Image 2025-09-03 at 21.16.59_43252165.jpg…]()
+![WhatsApp Image 2025-09-03 at 21 16 59_a5f7fb1f](https://github.com/user-attachments/assets/276e2e1c-cd7d-460c-b8c8-743046a63a7a)
+
 
 
 (Add your calculation here)
@@ -114,8 +116,10 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="657" height="441" alt="Screenshot 2025-08-30 141118" src="https://github.com/user-attachments/assets/a83553df-61a7-402d-88ef-43ca5ebf4086" />
-<img width="674" height="490" alt="Screenshot 2025-08-09 160144" src="https://github.com/user-attachments/assets/8591be95-ce77-434f-b2ce-75dd52a9d1cf" />
+<img width="490" height="312" alt="Screenshot 2025-09-03 222409" src="https://github.com/user-attachments/assets/ee76a69e-e32a-4696-a201-8b12a4e2a7b4" />
+
+<img width="625" height="432" alt="Screenshot 2025-09-03 230846" src="https://github.com/user-attachments/assets/b292ee0d-c535-4d55-8ffe-abc5e3545597" />
+
 
 
 
@@ -169,8 +173,9 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="622" height="372" alt="Screenshot 2025-09-03 103637" src="https://github.com/user-attachments/assets/c5186e38-17d5-4eaf-a3f8-a8d34df17f2c" />
-<img width="637" height="438" alt="Screenshot 2025-09-03 103521" src="https://github.com/user-attachments/assets/f36a89bc-cfda-43aa-88e2-84a2aea197af" />
+<img width="622" height="372" alt="Screenshot 2025-09-03 103637" src="https://github.com/user-attachments/assets/4c322816-bcb0-479c-96a1-90bceaa18fb8" />
+<img width="637" height="438" alt="Screenshot 2025-09-03 103521" src="https://github.com/user-attachments/assets/0a9a126e-77cf-472b-8d3f-fb76cf0c1c59" />
+
 
 
 ## 4. DIVISION
@@ -214,7 +219,8 @@ END
 
 #### Manual Calculations
 
-![Uploading WhatsApp Image 2025-09-03 at 21.05.14_dc907af2.jpg…]()
+![WhatsApp Image 2025-09-03 at 21 05 14_0c9b2140](https://github.com/user-attachments/assets/d8c21a01-c6dd-49d3-81d5-5f89b96b32ad)
+
 
 
 
