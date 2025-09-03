@@ -63,7 +63,8 @@ END
 1203 : 34    |1207 : C4
 
 #### Manual Calculations
-![WhatsApp Image 2025-08-30 at 12 43 55_9e68baab](https://github.com/user-attachments/assets/3e0dc415-900f-4106-9086-aa08ed93e287)
+![WhatsApp Image 2025-09-03 at 21 16 41_3074ea0e](https://github.com/user-attachments/assets/d22d39e3-2e1e-4f44-aa3d-9805e31139e6)
+
 
 (Add your calculation here)
 
@@ -104,7 +105,8 @@ END
 
 
 #### Manual Calculations
-![WhatsApp Image 2025-08-30 at 13 22 25_401d2d4f](https://github.com/user-attachments/assets/1d81a306-e394-45ca-9408-5b73066bffc6)
+![Uploading WhatsApp Image 2025-09-03 at 21.16.59_43252165.jpg…]()
+
 
 (Add your calculation here)
 
@@ -155,15 +157,21 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+| 1200:12                  |     1204:44
+  1201:34                 |      1205:51
+| 1202:12                |       1206:97
+| 1203:34              |        1207:0A              |
 
 #### Manual Calculations
+![WhatsApp Image 2025-09-03 at 21 05 39_93fe64d8](https://github.com/user-attachments/assets/9a2e5269-fec9-458a-854e-073c3bdf55a1)
 
-(Add your calculation here)
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="622" height="372" alt="Screenshot 2025-09-03 103637" src="https://github.com/user-attachments/assets/c5186e38-17d5-4eaf-a3f8-a8d34df17f2c" />
+<img width="637" height="438" alt="Screenshot 2025-09-03 103521" src="https://github.com/user-attachments/assets/f36a89bc-cfda-43aa-88e2-84a2aea197af" />
+
 
 ## 4. DIVISION
 
@@ -197,17 +205,25 @@ END
 ```
 
 #### Output Table
-
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+| 1200:12                       
+  1201:34                   |   1204:01
+| 1202:12                  |    1205:00
+| 1203:34                  |   1206:00                   |
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-09-03 at 21 05 14_7a6067bf](https://github.com/user-attachments/assets/bf49e28f-55a6-451e-b614-ea17e385b516)
+
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+<img width="642" height="400" alt="Screenshot 2025-09-03 205032" src="https://github.com/user-attachments/assets/95f927a9-b32a-4239-bebd-0e2048f17e6f" />
+<img width="646" height="402" alt="Screenshot 2025-09-03 204252" src="https://github.com/user-attachments/assets/a2a73a3d-49fe-4223-b64f-02aba29ee38f" />
+
+
 
 
 
