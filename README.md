@@ -214,7 +214,8 @@ END
 
 #### Manual Calculations
 
-![WhatsApp Image 2025-09-03 at 21 05 14_7a6067bf](https://github.com/user-attachments/assets/bf49e28f-55a6-451e-b614-ea17e385b516)
+![Uploading WhatsApp Image 2025-09-03 at 21.05.14_dc907af2.jpg…]()
+
 
 
 
